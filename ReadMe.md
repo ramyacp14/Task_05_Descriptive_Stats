@@ -47,16 +47,11 @@ This repository contains a dataset (`womens_lacrosse_stats.csv`) and an analysis
 ---
 
 ## **How to Use This Data**
-1. **For Coaches/Analysts:**  
    - Identify top performers and areas for improvement (e.g., shooting efficiency, turnovers).  
    - Compare player contributions (e.g., `PTS/GP` for starters vs. bench).  
    - Simulate scenarios (e.g., impact of a 10% shooting percentage increase).  
-
-2. **For Researchers:**  
    - Study correlations (e.g., shots vs. goals: `r = 0.99`).  
    - Test LLM accuracy in sports analytics by replicating prompts.  
-
-3. **For Students:**  
    - Practice data cleaning (e.g., handling duplicate entries like "Peers, Ava").  
    - Explore statistical metrics (e.g., `GB/TO ratio` for possession analysis).  
 
