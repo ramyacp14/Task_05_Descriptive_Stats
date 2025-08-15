@@ -6,7 +6,7 @@ This repository contains a dataset (`womens_lacrosse_stats.csv`) and an analysis
 ---
 
 ## **Files**
-1. **`womens_lacrosse_stats.csv`**  
+1. **DATA: `womens_lacrosse_stats.csv`**  
    - Contains player statistics, including goals (G), assists (A), points (PTS), shots (SH), shooting percentage (SH%), ground balls (GB), turnovers (TO), caused turnovers (CT), and more.  
    - **Key Columns:**  
      - `PLAYER`: Player name  
