@@ -69,7 +69,3 @@ This repository contains a dataset (`womens_lacrosse_stats.csv`) and an analysis
 - **LLM Challenges:**  
   - Required follow-up prompts for accuracy (e.g., "Double-check assists").  
   - Misinterpreted player names (e.g., "Ward, Emma" vs. "Beardsley, Angela").  
-
-
-### **License**
-This dataset is provided for educational and research purposes. Attribution is appreciated.
